@@ -1,0 +1,89 @@
+.navbar-brand { 
+    background-color: #4AA09B;
+    margin: 0%;
+}
+@media (max-width: 990px) {.navbar-custom {
+    background-color: #44a09b !important;
+}}
+#white-text{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+body{
+    background: lightgrey;
+}
+.navbar-expand-lg{
+    padding: 0%;
+    
+}
+.navbar-toggler{
+    background-color: #4AA09B;
+ }
+
+#visualization-block { 
+    background: white;
+
+}
+#summary-block{
+    background: white;
+}
+.column-color{
+    background: white;
+}
+
+#summary-img{
+    width: 260px;
+    height: 200px;
+}
+.img-fluid {
+    float: left;
+}
+p{
+    text-align: left;
+    color: grey;
+}
+.vis-img-size{
+    width: 170px;
+    height: 170px;
+    margin: 0%;
+}
+
+/* Comparison Page */
+
+.col-md-6 {
+    background: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #44a09b;
+    text-align: center;
+}
+.col-md-12{
+    background: white;
+}
+h1, h2 {
+    color: #44a09b;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    padding-top: 8mm;
+}
+h4{
+    color: #44a09b;
+    font-weight: bold;
+}
+hr{
+    color: grey;
+}
+
+.comparison-img {
+    height: 380px;
+    width: 550px;
+    margin: auto;
+    display: block;
+    
+ }
+.visualization-img{
+    width: 8in;
+    height: 400px;
+}
